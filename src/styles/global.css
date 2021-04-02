@@ -27,7 +27,7 @@ body{
   color: var(--text);
 }
 body, input, textarea, button{
-  font: 400 1rem "Montserrat", sans-serif;
+  font: 600 1rem 'Montserrat', sans-serif;
 }
 
 button{

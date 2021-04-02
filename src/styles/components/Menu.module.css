@@ -1,0 +1,37 @@
+.menuContainer{
+    display: flex;
+    clear: both;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 20;
+    background-color: var(--white);
+    height: 100vh;
+    width: fit-content;
+    position: relative;
+    box-shadow: 2px 0px 8px var(--text);
+    
+}
+
+.menuContainer ul{
+    list-style: none;
+    
+}
+.menuContainer div img{
+    padding: 15px;
+}
+.menuContainer div :hover{
+    background-color: var(--background);
+}
+.menuContainer ul li{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+.menuContainer .menuOptions{
+    align-items: flex-start;
+
+}
+.menuContainer .menuSocialNetwork{
+    align-items: flex-end;
+   
+}

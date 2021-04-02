@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#pattern);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 58 59">
+      <image width="58" height="59" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAA7CAYAAAAq55mNAAAE5ElEQVRogdWbzU3rQBSF74uyzCYtQAlJCWGRraVQAikBSsAlkBKIlK0XpARSAmnBGxfwdJMzYbDPNTMeE8wnRQKTsef4/sydH/5JJFWRTUVkho8y9X7+KQ4iUuLe+vNhstyVMc8KEloV2Y2IPIjI4gqiQlHBexHZTJa743dtWoVC4CNEDpmNiORtgk2hVZGpuGe45l9AXflpstxtWF+p0KrIXv6AFS3Usk/1vzWERogsvSRxaPxV5OglkFDUe27Id2de0gvxMI3btSm0KrJHuKvFFp99bNbrC2R9TYorfCzWvhtfhFZFpm/r3Wh0QENmuV+jKrIFDMNGAjXE3CWokfcHy5LqBvOhiVQmy50OL3fIunXU8i/ul5NF8WbeGl89D8zzxtWBAXfW/jPLnow0xi+Wr983rvwSCK1HWKqEp+1h2bIqMu3rB+mdJta1c10mNKjiuAZe/lh5iegNnigQq31lLnzSNsKXWcpmjX4LK3/Ur7M+T/VFjayMNbDks2hcOfOl7y19no0bl85YDaLxxr0b7yMoKI6Bs5GjUUiwfu7Ji5mOyUXrBlEgJB6M+K+jyWTbUphrSffauCqSN66cX0qdxahx6Uzb221FLVgV2SvSfYhIQY7Ql/KhJSi84MJkudtCrOtXiQJm27gTFyqW63YVucCbZ8ktlJMX6HDhhg85i80NCwYxMjoV7bqY1r0Z94tliuGjywyKWXQxNrJuFFWRrfxyy2CPz5cOGDnCoW589C0bAA27ZNfFKkSbyCcUH6wDOdqvyJjoeK2KbG4kqWD6iNEXw12DZjwQoIL3iO/6MOKK87tG4wisrBsEkg9zPRV3F1N04LtzK8b8cu/qQlFk13Gpn7lqK2hzb8QZe1YwnYUitthbzlPKR7Rlw8gCz+xEikVZMVAahXUsG8Oq7JlBpAhlb3fbx1oS7sGGFPbMIPoWyhJJV5j7s2cGkSLUGlL6otdpYt9CB0uKUOamnV2L0OtmVopQlnT6FMo8hj0ziBShLIY6p38Cuxd7ZhApQmn6Ty3V5HPKx7yDPTOIzkJRwbA4bawQxIC2rNw7plRcqbUuq4JuWqZcITwb1mRlYTBJQrG8waz6gO3HYLDWZG1ZHq0N3qsIBevGlTMq9j0kZr29HyZSWp4RTPLEW5c5qiLLjbiaYe3ngH3VeozNkF3bxsw8cimFUY5bFoeD0a10JBHLIrNvxFhs2DZ9Bw4jI8aiO4Wt9D73axrb84HQvvcRoxfQMWuFIJTTKkNHkSa9CpXPVfXb2sp6CCXa3Bor8KHQMXyMBFHPjIuUcQsT5xyreyvvxFndrQ7uBFiiOB/muqcdb/bWeyvOIaAvESEwoeWIpHxBzdrnTOQqoM/MdQ+WUDFmD0OH9lnH4RHiibnWY0pxfm1aJgMnbS7rsspjmlicXxvrgOZJm39y7MNIQuvUgvqnaTnap5MBHeq+jKNWqaXzS3aTIQh0Mx6rfxdN9UOPr1ZAo1TM+1qkTgHxuEJMMi+UeglZF9p21Mxn7x1h/XJctYeZhuuLX8S4463uKOt3Uz+3m3fpFzuvGyp2qDRECqt18YU7Y8gZOlsmklq0Zt1VyxrOkNDw0fP0pnFahXqCH7zDhkMTGJQgo/7Bp3bczSWE5HXcQFySc8us+5gDHNH/yRQLCu3vXF8H9p87Misi/wFLd9WRHR9w3wAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <rect id="insta" class="cls-1" width="25" height="25"/>
+</svg>
